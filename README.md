@@ -17,7 +17,7 @@ Thời gian training khoảng 2 tháng.
 
 Trong khoảng thời gian này sinh viên sẽ được được hướng dẫn thực tập với ngôn ngữ Java, sau đó là sử dụng Spring boot để xây dựng các trang web nhỏ. Trong các giai đoạn sẽ có đánh giá và rút kinh nghiệm giữa người hướng dẫn và các sinh viên (Lưu ý: cần đánh giá và phản hồi của cả sinh viên với giáo trình và người hướng dãn)
 
-Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các dự án Java Spring và các kiến thức liên quan đến lập trình web và làm 2 project nhỏ và có thể cân nhắc cho tham gia 1 phần vào các dự án thật của công ty hay cân nhắc tuyển dụng các bạn có kết quả thực tập tốt và có nguyện vọng làm việc ở công ty.
+Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các dự án Java Spring
 
 ### Outline.
 * Tuần 1: sinh viên sẽ tìm hiểu về  Java
