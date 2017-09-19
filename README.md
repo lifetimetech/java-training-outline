@@ -49,7 +49,9 @@ Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các d�
 - Viết chương trình java đơn giản.
 
 #### Buổi 2: Quản lý source code với Git.
-- Cơ bản về Git 
+- Git là gì?
+- Cài đặt Git
+- Một số lệnh cơ bản của Git
 - GitHub và Bitbucket
 
 #### Buổi 3: Biến, kiểu dữ liệu, các toán tử, các phương thức vào ra cơ bản và cấu trúc rẽ nhánh.
