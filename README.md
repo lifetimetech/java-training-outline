@@ -20,22 +20,21 @@ Trong khoảng thời gian này sinh viên sẽ được được hướng dẫn
 Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các dự án Java Spring
 
 ### Outline.
-* Tuần 1: sinh viên sẽ tìm hiểu về  Java
+* Tuần 1: Java core và Git
 
-* Tuần 2: 
+* Tuần 2: Java core (tiếp) và MySql
 
-* Tuần 3 
+* Tuần 3: Mô hình MVC, RESTful api, cơ bản về Spring framework (Spring Boot)
 
-* Tuần 4 
+* Tuần 4: JPA, Hibernate và Validation trong Spring Boot
 
-* Tuần 5
+* Tuần 5: Thymeleaf và Spring Security
 
-* Tuần 6 
+* Tuần 6: Hoàn thiện một trang web đơn giản với Spring Boot
 
-* Tuần 7 
+* Tuần 7: Hoàn thiện một trang web đơn giản với Spring Boot (tiếp)
 
-* Tuần 8 
-
+* Tuần 8: Báo cáo 
 
 ----
 
