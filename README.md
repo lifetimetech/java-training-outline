@@ -20,48 +20,95 @@ Trong khoảng thời gian này sinh viên sẽ được được hướng dẫn
 Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các dự án Java Spring
 
 ### Outline.
-* Tuần 1: Java core và Git
+* Tuần 1: Java core và Git.
 
-* Tuần 2: Java core (tiếp) và MySql
+* Tuần 2: Java core (tiếp) và MySql.
 
-* Tuần 3: Mô hình MVC, RESTful api, cơ bản về Spring framework (Spring Boot)
+* Tuần 3: Mô hình MVC, RESTful api, cơ bản về Spring framework (Spring Boot).
 
-* Tuần 4: JPA, Hibernate và Validation trong Spring Boot
+* Tuần 4: JPA, Hibernate và Validation trong Spring Boot.
 
-* Tuần 5: Thymeleaf và Spring Security
+* Tuần 5: Thymeleaf và Spring Security.
 
-* Tuần 6: Hoàn thiện một trang web đơn giản với Spring Boot
+* Tuần 6: Hoàn thiện một trang web đơn giản với Spring Boot.
 
-* Tuần 7: Hoàn thiện một trang web đơn giản với Spring Boot (tiếp)
+* Tuần 7: Hoàn thiện một trang web đơn giản với Spring Boot (tiếp).
 
-* Tuần 8: Báo cáo 
+* Tuần 8: Báo cáo.
 
 ----
 
 ## Nội dung chi tiết các cần công việc thực hiện .
 
-### Tuần 1. Tìm hiểu về Java.
+### Tuần 1: Java core và Git.
+------
+
+#### Buổi 1: Làm quen với Java.
+- Hiểu các khái niệm cơ bản của Java cũng như các đặc điểm của nó.
+- Cài đặt môi trường phát triển.
+- Viết chương trình java đơn giản.
+
+#### Buổi 2: Quản lý source code với Git.
+- Cơ bản về Git 
+- GitHub và Bitbucket
+
+#### Buổi 3: Biến, kiểu dữ liệu, các toán tử, các phương thức vào ra cơ bản và cấu trúc rẽ nhánh.
+- Biến, kiểu dữ liệu, các toán tử.
+- Các phương thức vào ra cơ bản.
+- Cấu trúc rẽ nhánh: **if...else...**, **switch** 
+
+#### Buổi 4: Mảng, ArrayList và cấu trúc lặp.
+- Mảng 
+- ArrayList
+- Cấu trúc lặp
+  + while
+  + do...while
+  + for
+  + Lệnh thay đổi cấu trúc: break, continue
+  
+#### Buổi 5: Chuỗi và biểu thức chính qui. Xử lý ngoại lệ trong Java.
+- Chuỗi và biểu thức chính qui.
+- Xử lý ngoại lệ trong Java.
+
+#### Bài tập tuần 1
+
+### Tuần 2: Java core (tiếp) và MySql.
+------
+
+#### Buổi 1: Cơ bản về lập trình hướng đối tượng trong Java.
+- Các khái niệm cơ bản của lập trình hướng đối tượng.
+- Đóng gói và xây dựng lớp.
+- Khai báo và sử dụng đối tượng.
+- Một số lớp tiện ích trong Java.
+
+#### Buổi 2: Kế thừa và kết tập
+- Cơ bản về kế thừa và kết tập.
+- Kết tập.
+- Kế thừa.
+
+#### Buổi 3: Trừu tượng và đa hình
+- Lớp trừu tượng (Abstract class).
+- Giao diện (Interface).
+
+#### Buổi 4: MySql
+
+#### Buổi 5: MySql (tiếp)
+
+#### Bài tập tuần 2
 
 
-### Tuần 2.
+### Tuần 3: Mô hình MVC, RESTful api, cơ bản về Spring framework (Spring Boot).
+------
 
-
-### Tuần 3:
-
-
-### Tuần 4.
-
-
-### Tuần 5.
-
-
-### Tuần 6.
-
-
-### Tuần 7.
-
-
-### Tuần 8.
+### Tuần 4: JPA, Hibernate và Validation trong Spring Boot.
+------
+### Tuần 5: Thymeleaf và Spring Security.
+------
+### Tuần 6: Hoàn thiện một trang web đơn giản với Spring Boot.
+------
+### Tuần 7: Hoàn thiện một trang web đơn giản với Spring Boot (tiếp).
+------
+### Tuần 8: Báo cáo.
 ----
 
 ### Tài liệu dùng nội bộ công ty TNHH Công Nghệ và Cuộc Sống
