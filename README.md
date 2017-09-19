@@ -91,8 +91,30 @@ Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các d�
 - Giao diện (Interface).
 
 #### Buổi 4: MySql
+- Tổng quan về MySql
+- Cài đặt
+- Tạo Database (CREATE DATABASE)
+- Các kiểu dữ liệu
+- Tạo bảng (CREATE TABLE)
+- Thêm dữ liệu vào bảng (INSERT INTO)
+- Truy xuất dữ liệu:
+  + Cú pháp cơ bản (SELECT)
+  + Dựa theo điều kiện (WHERE)
+  + Dựa theo nhiều điều kiện (AND & OR)
+  + Lấy theo thứ tự (ORDER BY)
+  + Lấy các kết quả không trùng nhau (DISTINCT)
+  + Giới hạn số lượng kết quả trả về (LIMIT)
+  + Truy xuất dữ liệu khi thỏa mãn một trong các giá trị (IN)
+  + Truy xuất dữ liệu trong một khoảng giá trị (BETWEEN)
+  + Truy xuất dữ liệu dựa theo chuỗi ký tự (LIKE & NOT LIKE)
 
 #### Buổi 5: MySql (tiếp)
+- Xóa dữ liệu (DELETE)
+- Cập nhật dữ liệu (UPDATE)
+- Đặt tên tạm thời cho bảng, cột (AS)
+- Sửa đổi cấu trúc bảng (ALTER)
+- Nối bảng (JOIN)
+- Một số hàm hữu ích trong MySql: COUNT, MAX, MIN, AVG, SUM, SQRT, RAND, CONCAT, hàm xử lý DATE và DATETIME, hàm xử lý số, hàm xử lý chuỗi. 
 
 #### Bài tập tuần 2
 
