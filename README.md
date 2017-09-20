@@ -24,7 +24,7 @@ Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các d�
 
 * Tuần 2: Java core (tiếp) và MySql.
 
-* Tuần 3: Mô hình MVC, RESTful api, cơ bản về Spring framework (Spring Boot).
+* Tuần 3: Mô hình MVC, RESTful API, cơ bản về Spring framework (Spring Boot).
 
 * Tuần 4: JPA, Hibernate và Validation trong Spring Boot.
 
@@ -121,17 +121,67 @@ Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các d�
 #### Bài tập tuần 2
 
 
-### Tuần 3: Mô hình MVC, RESTful api, cơ bản về Spring framework (Spring Boot).
+### Tuần 3: Mô hình MVC, RESTful API, cơ bản về Spring framework (Spring Boot).
 ------
+
+#### Buổi 1: Tổng kết tuần 1 và tuần 2
+
+#### Buổi 2: Giới thiệu mô hình MVC, RESTfull API, Maven và Gradle
+- Mô hình MVC
+- RESTful API
+- Maven và Gradle
+
+#### Buổi 3: Tìm hiểu chung về Spring framework và Spring Boot
+- Giới thiệu về Spring framework. Spring Boot là gì? Tại sao sử dụng?
+- Các tính năng của Spring Boot
+- Cài đặt môi trường phát triển.
+- Tạo project đầu tiên.
+- Cấu trúc code và coding conventions trong Spring Boot
+
+#### Buổi 4: Cơ bản về HTML và CSS
+- Giới thiệu cấu trúc của một website
+- HTML
+- CSS
+
+#### Buổi 5: Cơ bản về JavaScript và jQuery
+- JavaScript
+- jQuery 
+
+#### Bài tập tuần 3
+
 
 ### Tuần 4: JPA, Hibernate và Validation trong Spring Boot.
 ------
+
+#### Buổi 1: JPA và Hibernate
+
+#### Buổi 2: JPA và Hibernate (tiếp)
+
+#### Buổi 3: Validattion trong Spring Boot
+
+#### Buổi 4: Bài tập thực hành 1
+
+#### Buổi 5: Bài tập thực hành 2
+
 ### Tuần 5: Thymeleaf và Spring Security.
 ------
+
+#### Buổi 1: Thymeleaf
+
+#### Buổi 2: Thymeleaf (tiếp)
+
+#### Buổi 3: Spring Security
+
+#### Buổi 4: Bài tập thực hành 1
+
+#### Buổi 5: Bài tập thực hành 2
+
 ### Tuần 6: Hoàn thiện một trang web đơn giản với Spring Boot.
 ------
+
 ### Tuần 7: Hoàn thiện một trang web đơn giản với Spring Boot (tiếp).
 ------
+
 ### Tuần 8: Báo cáo.
 ----
 
