@@ -183,6 +183,10 @@ Mục tiêu sau quá trình thực tập, sinh viên có thể tham gia các d�
 ------
 
 ### Tuần 8: Báo cáo.
+- Sinh viên báo cáo kết quả sau quá trình trainning, các kĩ năng, kiến thức thu được.
+- Người giảng dạy đánh giá về từng sinh viên, xếp level cho từng bạn và định hướng tiếp theo.
+- Người giảng dạy đánh giá lại về outline, cần sửa đổi gì không? 
+- Sinh viên đánh giá nội dung đào tạo phù hợp chưa? Góp ý cải tiến nội dung? Đánh giá người giảng dạy?
 ----
 
 ### Tài liệu dùng nội bộ công ty TNHH Công Nghệ và Cuộc Sống
